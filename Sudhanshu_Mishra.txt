@@ -1,0 +1,12 @@
+I am currently studying in BITS Pilani Goa Campus in Information Systems branch.
+I am developing in php for last 3 months. I've worked with facebook API. I've also worked on a social networking project.
+
+I've also written a python module called 'BigInteger' with some help from my friend which can do mathematical operations irrespective of the size of the numbers.
+I love to do things in a pythonic way!
+Currently I am learning Django.
+
+
+Contact Details:
+Name: Sudhanshu Mishra
+Email: mrsud94@gmail.com
+Phone: 7875498598
