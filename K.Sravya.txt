@@ -1,5 +1,5 @@
 Hello,
-I am K.Sravya presently pursuing M.Tech in Database and Information Systems in IIIT Bangalore.Currently working on developing a cloud based service ,Column Data Stores and developing a prototype of Flipkart .Previous projects include implementing a Virtual File System , developed a CarPooling website and a developing module in Sanskrit word Processor. Has good knowledge on relational data bases,jsp,struts,jquery,CSS.Interested in databases,semantic web frameworks.
+I am K.Sravya presently pursuing M.Tech in Database and Information Systems in IIIT Bangalore.Currently working on developing a cloud based service ,Column Data Stores and developing a prototype of Flipkart .Previous projects include implementing a Virtual File System , developed a CarPooling website and a developed a  module for a  Sanskrit word Processor. Has good knowledge on relational data bases,jsp,struts,jquery,CSS.Interested in databases,semantic web frameworks.
 
 Contact Details :
 Name : K.Sravya
