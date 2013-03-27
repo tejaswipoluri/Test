@@ -1,0 +1,15 @@
+Hello fellow coders,
+I am Rohan Saxena from BITS PILANI Goa Campus. Currently I am pursuing BE in CS and Msc in Biological Sciences. I am in my 6th semester. I love coding particularly algorithmic part. I am a fast learner and ready to learn anything new required for this project. 
+
+My projects in past include - 
+
+1) part of campus shopping website developer team build on .NET platform
+2) Bioinformatics tool for sequence analysis written in Java
+3) Currently I am building simulators for real time scheduling algorithms in C
+
+Lets get together and build World's best finance management software. :)
+
+My contact details are - 
+
+Email ID : rohansaxenabits@gmail.com
+Mobile No: 9595437080
